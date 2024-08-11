@@ -19,6 +19,13 @@ function Footer() {
           Emigrate
         </p>
       </div>
+      <ul>
+        <li>Home</li>
+        <li>work</li>
+        <li>profile</li>
+        <li>skills</li>
+        <li>messages</li>
+      </ul>
       <div className="mt-4">
         <p className="text-xs md:text-sm text-white font-light opacity-50">
           Copyright 2024 Emigrate
