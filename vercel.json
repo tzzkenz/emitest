@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/home", "destination": "/" },
+    { "source": "/work", "destination": "/" },
+    { "source": "/login", "destination": "/" },
+    { "source": "/profile", "destination": "/" },
+    { "source": "/feature", "destination": "/" },
+    { "source": "/messages", "destination": "/" }
+  ]
+}
